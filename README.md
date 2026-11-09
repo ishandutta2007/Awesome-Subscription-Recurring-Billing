@@ -217,9 +217,8 @@ Self-hosted, community-driven Subscription, Invoicing, and Recurring Billing pla
 
 ---
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=getlago/lago,invoiceninja/invoiceninja,polarsource/polar,crater-invoice-inc/crater,flexprice/flexprice,killbill/killbill,openmeterio/openmeter,meteroid-oss/meteroid&type=Date)](https://star-history.com/#getlago/lago&invoiceninja/invoiceninja&polarsource/polar&crater-invoice-inc/crater&flexprice/flexprice&killbill/killbill&openmeterio/openmeter&meteroid-oss/meteroid&Date)
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Subscription-Recurring-Billing&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Subscription-Recurring-Billing&type=date&legend=top-left)
 
 ---
 
