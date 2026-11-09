@@ -8,7 +8,7 @@
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Subscription-Recurring-Billing?style=social)](https://github.com/ishandutta2007/Awesome-Subscription-Recurring-Billing/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Subscription-Recurring-Billing?style=social)](https://github.com/ishandutta2007/Awesome-Subscription-Recurring-Billing/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
@@ -78,7 +78,7 @@ Commercial, cloud-hosted Subscription and Recurring Billing platforms. Products 
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven Subscription, Invoicing, and Recurring Billing platforms. Sorted in **descending order by GitHub Star Count**.
+Self-hosted, community-driven Subscription, Invoicing, and Recurring Billing platforms. Sorted in **descending order by GitHub Stars_Count**.
 
 ### 1. Lago 🌊
 [![Lago Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers)
